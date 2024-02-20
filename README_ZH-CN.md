@@ -15,6 +15,7 @@
 - [指南](#指南)
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
+- [**Awesome Bash**][awesome-bash] [![Awesome][awesome-badge]][awesome-bash]
 - [其它 Awesome 清单](#其它-awesome-清单)
 
 ## 命令行效率
@@ -148,13 +149,13 @@
 * [balls](https://github.com/jneen/balls) - Bash on Balls，全功能的 web 平台
 * [bashttpd](https://github.com/avleen/bashttpd) - 使用 Bash 编写的 web 服务器
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" 或 "双向目录同步（含正确删除）"
+* [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader 是用来从 Dropbox 上传、下载、列出或删除文件的 Bash 脚本
 * [httpie](https://github.com/httpie/httpie) - HTTPie 是一个命令行 HTTP 客户端，用户友好的 cURL 替代品
 * [http-server](https://www.npmjs.com/package/http-server) - http-server可以启动一个轻量级的http服务
 * [ngincat](https://github.com/jaburns/ngincat) - 使用 netcat 的微型 Bash HTTP 服务器
 * [resty](https://github.com/micha/resty) - 你可以在管道中使用的小型命令行 REST 客户端
-* [youtube-dl](https://yt-dl.org/) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
-* [coursera-dl](https://github.com/coursera-dl/coursera-dl) - 从Course公开课上下载视频
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 从 YouTube.com 及其它视频站点下载视频的小命令行程序
 
 ## 多媒体与文件格式
 
@@ -200,7 +201,6 @@
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - 从终端浏览 Reddit
 * [SAWS](https://github.com/donnemartin/saws) - 超强的 AWS 命令行界面
 * [taskwarrior](https://taskwarrior.org/) - 一个命令行去做列表管理器
-* [transfer.sh](https://transfer.sh/) — 从 shell 快速上传并分享文件
 * [vl](https://github.com/ellisonleao/vl) - 针对文本文档的 URL 链接检查器
 * [wego](https://github.com/schachmat/wego) - 适用于终端的天气预报应用
 * [whereami](https://github.com/rafaelrinaldi/whereami) - 从命令行获得你的地理位置信息
@@ -258,7 +258,7 @@
 
 # 指南
 
-* [Bash 黑客的维基](https://wiki.bash-hackers.org/)
+* [Bash 黑客的维基](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/)
 * [Greg Wooledge（又名 "greycat"）的维基](http://mywiki.wooledge.org)：尤其是 [Bash 指南](http://mywiki.wooledge.org/BashGuide)、[Bash 疑难问答](http://mywiki.wooledge.org/BashFAQ) 及 [Bash 陷阱](http://mywiki.wooledge.org/BashPitfalls)
 * [Google 的 Shell 风格指南](https://google.github.io/styleguide/shell.xml)
 * [Linux 文档项目: Bash 编程 - 简介/如何做](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
@@ -279,3 +279,4 @@
 [awesome-fish]: https://github.com/jorgebucaran/awsm.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-bash]: https://github.com/awesome-lists/awesome-bash
